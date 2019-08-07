@@ -12,7 +12,7 @@ ISR(USART_RX_vect){
     //put handler here
 }
 
-void main(void){
+int main(void){
   UART_Init();
   sei();
 }
