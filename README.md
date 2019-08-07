@@ -1,4 +1,4 @@
-# avr_uart
+# Atmega168 UART
 UART 9600 8n1 for atmega168/328 with interrupts
 
 remember to put this code in void main
